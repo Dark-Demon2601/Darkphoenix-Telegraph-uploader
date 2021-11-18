@@ -10,7 +10,7 @@ That Can Upload Photo, Video And Gif
 Simply send me photo, video or gif to upload to Telegra.ph
 
 Regards
- - @Ericbotz 😎
+ - @ASHU_S_botS 😎
 </b>"""
 HELP_USER = """<b>
     There Is Nothing To KnowMore,😌
@@ -20,10 +20,10 @@ Just Send Me A Video/gif/photo Upto 5mb🤩.
 i'll upload media/gif/ to telegra.ph and give you the direct link😎
 </b>"""
 
-START_BUTTONS = [[InlineKeyboardButton('😎 Channel💘', url='https://telegram.me/Ericbotz'), InlineKeyboardButton('💌share💛',url='https://telegram.m/share/url?url=&text=**Hey%20dude%E2%9D%A4%2C**%20%0A**Today%20i%20just%20found%20out%20an%20intresting%20and%20Powerful%20Telgraph%20Uploader%20Bot%20for%20Free%F0%9F%A5%B0.**%20%20%0ABot%20Link%20%3A%20%40TelgraphUploadEricBot%20%F0%9F%94%A5%0A%0A**Regards**%0A**-%C2%A9%40Ericbotz**'),],
+START_BUTTONS = [[InlineKeyboardButton('😎 Channel💘', url='@Miss_Akshi_updates'), InlineKeyboardButton('💌share💛',url='https://telegram.m/share/url?url=&text=**Hey%20dude%E2%9D%A4%2C**%20%0A**Today%20i%20just%20found%20out%20an%20intresting%20and%20Powerful%20Telgraph%20Uploader%20Bot%20for%20Free%F0%9F%A5%B0.**%20%20%0ABot%20Link%20%3A%20%40TelgraphUploadEricBot%20%F0%9F%94%A5%0A%0A**Regards**%0A**-%C2%A9%40Ericbotz**'),],
                         [InlineKeyboardButton('Help💫' callback_data='help')]]
 
-HELP_BUTTONS = [[InlineKeyboardButton('⚙ Channel ⚙', url='https://telegram.me/Ericbotz'), InlineKeyboardButton('🤡Dev', url='https://telegram.me/Erichome'),],
+HELP_BUTTONS = [[InlineKeyboardButton('⚙ Channel ⚙', url='@Miss_Akshi_updates'), InlineKeyboardButton('🤡Dev', url='https://t.me/ASHU_S_botS'),],
                         [InlineKeyboardButton('Home🏠', callback_data='home')]]
 
 @Client.on_callback_query()
